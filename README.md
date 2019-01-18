@@ -1,2 +1,8 @@
 # hello-world
-just the beginning
+
+Just the beginning.
+
+Learning how to code.
+Studying Software Engineering.
+
+Lets begin this journey!
